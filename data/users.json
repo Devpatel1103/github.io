@@ -1,0 +1,50 @@
+{
+  "Users" :
+  [
+
+    {
+      "DisplayName": "Hittle peker",
+      "EmailAddress" : "hhittleer@durhumcollege.ca",
+      "Username" : "fdddddf",
+      "Password " : "257888"
+    },
+
+    {
+      "DisplayName": "PETER peker",
+      "EmailAddress" : "prtrettleer@durhumcollege.ca",
+      "Username" : "fddffef",
+      "Password " : "257888"
+    },
+
+    {
+
+      "DisplayName": "defv peker",
+      "EmailAddress" : "devftleer@durhumcollege.ca",
+      "Username" : "fdefdfaf",
+      "Password " : "257888"
+    },
+
+
+
+    git branch -M main
+    PS E:\Web-Css\INFT2202-ICE\week6\day2> git remote add origin https://github.com/Devpatel1103/github.io.git
+    PS E:\Web-Css\INFT2202-ICE\week6\day2> git push -u origin main
+
+
+
+
+
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+}
